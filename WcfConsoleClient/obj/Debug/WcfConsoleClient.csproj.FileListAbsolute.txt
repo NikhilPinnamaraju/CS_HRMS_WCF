@@ -1,0 +1,6 @@
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\bin\Debug\WcfConsoleClient.exe.config
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\bin\Debug\WcfConsoleClient.exe
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\bin\Debug\WcfConsoleClient.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\obj\Debug\WcfConsoleClient.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\obj\Debug\WcfConsoleClient.exe
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleClient\obj\Debug\WcfConsoleClient.pdb

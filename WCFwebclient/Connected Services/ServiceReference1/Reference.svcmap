@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="4a9fbc06-3df9-4ab8-ac4f-d3e06d5ad4e5" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="item.xsd" MetadataType="Schema" ID="aa2870cd-ea67-45b9-9a50-20dea5eb7fcc" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/?xsd=xsd1" />
+    <MetadataFile FileName="item1.xsd" MetadataType="Schema" ID="8a3e1895-5e64-4db0-98ae-251991be2df4" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/?xsd=xsd0" />
+    <MetadataFile FileName="item.disco" MetadataType="Disco" ID="8a8b3aa1-1fd2-4cc9-ad92-95b25cc8285a" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/?disco" />
+    <MetadataFile FileName="item2.xsd" MetadataType="Schema" ID="1b99baa5-13f9-4a2a-96fd-2a67d0c81a17" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/?xsd=xsd2" />
+    <MetadataFile FileName="Empservice.wsdl" MetadataType="Wsdl" ID="41703941-859c-4746-abc6-e2980fc70a99" SourceId="1" SourceUrl="http://localhost:8733/Design_Time_Addresses/wcfemplib/Empservice/?wsdl" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

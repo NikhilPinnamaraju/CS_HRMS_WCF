@@ -1,0 +1,13 @@
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\WcfConsoleHost.exe.config
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\WcfConsoleHost.exe
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\WcfConsoleHost.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\wcfemplib.dll
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\wcfemplib.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\wcfemplib.dll.config
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\obj\Debug\WcfConsoleHost.csprojAssemblyReference.cache
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\obj\Debug\WcfConsoleHost.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\obj\Debug\WcfConsoleHost.csproj.CopyComplete
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\obj\Debug\WcfConsoleHost.exe
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\obj\Debug\WcfConsoleHost.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\employee.dll
+C:\Users\npinnamaraju\source\repos\wcfemplib\WcfConsoleHost\bin\Debug\employee.pdb

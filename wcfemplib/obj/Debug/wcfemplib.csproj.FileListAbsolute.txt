@@ -1,0 +1,10 @@
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\bin\Debug\wcfemplib.dll.config
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\bin\Debug\wcfemplib.dll
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\bin\Debug\wcfemplib.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\obj\Debug\wcfemplib.csprojAssemblyReference.cache
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\obj\Debug\wcfemplib.csproj.CoreCompileInputs.cache
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\obj\Debug\wcfemplib.dll
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\obj\Debug\wcfemplib.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\bin\Debug\employee.dll
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\bin\Debug\employee.pdb
+C:\Users\npinnamaraju\source\repos\wcfemplib\wcfemplib\obj\Debug\wcfemplib.csproj.CopyComplete
